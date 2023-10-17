@@ -1,2 +1,2 @@
-# PrepCourse-Henry$
+cd # PrepCourse-Henry$
 Este es un repositorio del modulo 2 PrepCourse henry
